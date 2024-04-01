@@ -10,7 +10,7 @@ body{
 
 a{
   text-decoration: none;
-  color: #232528;
+  color: #fafafa;
   font-weight: bold;
   
 }
@@ -18,7 +18,7 @@ a{
 h3{
   font-family: "Ubuntu", sans-serif;
   font-weight: 700;
-  color: #232528;
+  color: #d8dbe0;
   
   margin-top: 10px;
   font-size: 32px;
@@ -34,4 +34,19 @@ p{
  
   text-align: center;
   margin-bottom: 16px;
+  z-index: 1;
+  position: relative;
+}
+
+.legenda-header{
+  font-size: 26px;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 300;
+  font-weight: bold;
+  color: #fdf9f2;
+  line-height: 1.5em;
+ 
+  text-align: center;
+  margin-bottom: 16px;
+  
 }
