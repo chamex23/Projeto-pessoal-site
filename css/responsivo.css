@@ -1,0 +1,45 @@
+
+@media screen and (max-width: 600px) {
+  .container {
+    padding: 20px; 
+  }
+
+  .content {
+    width: 100%; 
+    height: auto; 
+    filter: blur(10px);
+    opacity: 0.7;
+    z-index: -1;
+  }
+
+  .content-header {
+    text-align: center; 
+  }
+
+  .img-perfil img {
+    width: 150px; 
+    height: 150px;
+  }
+
+  .redes-sociais {
+    width: 100%; 
+  }
+
+  .redes-sociais a {
+    font-size: 18px; 
+    padding: 10px; 
+  }
+
+  .redes-sociais img {
+    width: 40px; 
+    height: 40px;
+  }
+
+  .footer {
+    margin-top: 20px; 
+    font-size: 14px; 
+    text-align: center; 
+
+    margin-top: 100px ;
+  }
+}
