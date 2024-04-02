@@ -1,5 +1,5 @@
 const el = document.querySelector("#text");
-const text = "Bem-vindo(a) ao meu portfolio";
+const text = "Bem-vindo(a) ao meu portfólio";
 const interval = 200;
 const pauseBetweenIterations = 2000;
 
